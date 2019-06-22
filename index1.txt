@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <title>LOKESH MOBILES</title>
+        <style>
+            H1{ 
+                background-color: #333333;
+                margin: 0;
+            }
+                ul {
+                  list-style-type: none;
+                  margin: 0;
+                  padding: 0;
+                  overflow: hidden;
+                  background-color: #333333;
+                }
+                
+                li {
+                  float: LEFT;
+                }
+                
+                li a {
+                  display: block;
+                  color: white;
+                  text-align: center;
+                  padding: 16px;
+                  text-decoration: none;
+                }
+                
+                li a:hover {
+                  background-color: #111111;
+                }
+                </style>
+        </head>
+        <BODY>
+            <H1 style="COLOR:rgb(233, 233, 245)" ALIGN=CENTER>LOKESH MOBILES</H1>
+            <HR STYLE=margin:0;>
+
+                <ul>
+                        <li><a href="#home">HOME</a></li>
+                        <li><a href="#KG">LOG IN</a></li>
+                        
+                        <li><a href="#KG">MAP</a></li>
+                        <li><a href="#contact">CONTACT US</a></li>
+                        <li><a href="#about">ABOUT</a></li>
+                        <li><a href="#about">PROFILE</a></li>
+                      </ul>
+                      
+                      </body>
+                      </html>
+                      
